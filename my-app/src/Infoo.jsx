@@ -1,7 +1,10 @@
 
 function Infoo(){
     return(
-        <h1>안녕하살...</h1>
+        <dev>
+            <h1>안녕하살...</h1>
+            <h2>test 222</h2>
+        </dev>
     )
 }
 
