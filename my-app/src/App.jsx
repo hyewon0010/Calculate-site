@@ -4,14 +4,15 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Calculator } from './Calculator'
 import { Infoo } from './Infoo'
+import Threed from './Threed'
 
 function App() {
 
   return (
-    <div>
-      <Calculator/>
-      <Infoo/>
+    <div style={{ width: '100vw', height: '100vh' }}>
+      <Threed />
     </div>
+    
   )
 }
 
